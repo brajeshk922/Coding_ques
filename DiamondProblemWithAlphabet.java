@@ -1,5 +1,15 @@
+//      A
+//     B  B
+//    C    C
+//   D      D
+//  E        E
+// F          F
+//  E        E
+//   D      D
+//    C    C
+//     B  B
+//      A
 import java.util.Scanner;
-
 public class DiamondProblemWithAlphabet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -40,3 +50,4 @@ public class DiamondProblemWithAlphabet {
     }
     
 }
+
